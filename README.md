@@ -1,2 +1,2 @@
-# Django_REST_API
+# django_rest_api
 Наработки по теме API
